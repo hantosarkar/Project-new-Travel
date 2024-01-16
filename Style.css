@@ -881,8 +881,12 @@ body {
     background-color: #FF5400;
     width: 30%;
     color: white;
-    margin-top: 18em;
+    margin-right: 20px;
+    margin-top: 15em;
+    text-align: center;
     float: right;
+    border-radius: 10px;
+    transform: rotate(-0.10turn);
 }
 
 
